@@ -85,14 +85,18 @@ Here are some example screenshots you might want to include (replace with your a
 1. **Main Interface**  
    ![Main Interface](Images/application_with_graphs.png)
 
-2. **Training Progress**  
-   ![Training](images/training.png)
+2. **Model Info**  
+   ![Training](Images/model_info.png)
 
 3. **Prediction Results**  
-   ![Prediction](images/prediction.png)
+   ![Prediction](Images/Disease_prediction.png)
 
 4. **Confusion Matrix**  
-   ![Confusion Matrix](images/confusion_matrix.png)
+   ![Confusion Matrix](Images/Confusion_matrix.png)
+
+4. **Model evaluation**  
+   ![Model evaluation](Images/modal_evaluation.png)
+   
 
 ## Technical Details
 
