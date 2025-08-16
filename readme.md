@@ -1,6 +1,6 @@
 # Skin Disease Detection System
 
-![Application Screenshot](screenshot.png) 
+![Application Screenshot](Images/application.png) 
 
 ## Overview
 
