@@ -38,7 +38,7 @@ This project is an advanced skin disease detection system that uses deep learnin
 
 3. Run the application:
    ```bash
-   python finall.py
+   python app.py
    ```
 
 ## Dataset Structure
