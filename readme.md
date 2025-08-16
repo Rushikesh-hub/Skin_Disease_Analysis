@@ -83,7 +83,7 @@ dataset_root/
 Here are some example screenshots you might want to include (replace with your actual images):
 
 1. **Main Interface**  
-   ![Main Interface](images/main_interface.png)
+   ![Main Interface](Images/application_with_graphs.png)
 
 2. **Training Progress**  
    ![Training](images/training.png)
