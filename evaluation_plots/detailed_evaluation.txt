@@ -1,0 +1,69 @@
+DETAILED CLASSIFICATION METRICS
+==================================================
+
+1. Eczema 1677:
+  Precision: 0.000
+  Recall:    0.000
+  F1-Score:  0.000
+  Support:   1677
+
+10. Warts Molluscum and other Viral Infections - 2103:
+  Precision: 0.100
+  Recall:    0.000
+  F1-Score:  0.001
+  Support:   2103
+
+2. Melanoma 15.75k:
+  Precision: 0.485
+  Recall:    0.030
+  F1-Score:  0.057
+  Support:   3140
+
+3. Atopic Dermatitis - 1.25k:
+  Precision: 0.000
+  Recall:    0.000
+  F1-Score:  0.000
+  Support:   1257
+
+4. Basal Cell Carcinoma (BCC) 3323:
+  Precision: 0.491
+  Recall:    0.095
+  F1-Score:  0.160
+  Support:   3323
+
+5. Melanocytic Nevi (NV) - 7970:
+  Precision: 0.468
+  Recall:    0.963
+  F1-Score:  0.630
+  Support:   7970
+
+6. Benign Keratosis-like Lesions (BKL) 2624:
+  Precision: 0.000
+  Recall:    0.000
+  F1-Score:  0.000
+  Support:   2079
+
+7. Psoriasis pictures Lichen Planus and related diseases - 2k:
+  Precision: 0.182
+  Recall:    0.828
+  F1-Score:  0.298
+  Support:   2055
+
+8. Seborrheic Keratoses and other Benign Tumors - 1.8k:
+  Precision: 0.312
+  Recall:    0.091
+  F1-Score:  0.142
+  Support:   1847
+
+9. Tinea Ringworm Candidiasis and other Fungal Infections - 1.7k:
+  Precision: 0.000
+  Recall:    0.000
+  F1-Score:  0.000
+  Support:   1702
+
+OVERALL METRICS:
+--------------------
+Accuracy:     0.367
+Macro Avg:    0.129
+Weighted Avg: 0.243
+Total Samples: 27153
